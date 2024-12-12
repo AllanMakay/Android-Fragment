@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.allan.mobileapp-mergeDebugResources-31:/layout/activity_main.xml",
+        "source": "com.allan.mobileapp-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.allan.mobileapp-mergeDebugResources-31:/layout/fragment_b.xml",
+        "source": "com.allan.mobileapp-main-34:/layout/fragment_b.xml"
+    },
+    {
+        "merged": "com.allan.mobileapp-mergeDebugResources-31:/layout/loginfragment.xml",
+        "source": "com.allan.mobileapp-main-34:/layout/loginfragment.xml"
+    },
+    {
+        "merged": "com.allan.mobileapp-mergeDebugResources-31:/layout/fragment_a.xml",
+        "source": "com.allan.mobileapp-main-34:/layout/fragment_a.xml"
+    },
+    {
+        "merged": "com.allan.mobileapp-mergeDebugResources-31:/layout/registerfragment.xml",
+        "source": "com.allan.mobileapp-main-34:/layout/registerfragment.xml"
+    }
+]
